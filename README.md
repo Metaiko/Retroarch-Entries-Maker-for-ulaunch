@@ -34,7 +34,7 @@ Just copy-paste your roms directory path, for example:
 
 > C:\Users\user\Desktop\roms
 
-Note : You can replace "\" by "/" if you want
+Note : You can replace "\\" by "/" if you want
 
 Then press Enter and wait until it says "Done!" and press Enter again.
 
