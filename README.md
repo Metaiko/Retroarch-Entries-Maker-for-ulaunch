@@ -18,7 +18,7 @@ Then set the number of digits to 3 (if you have more than 1000 files, set it to 
 
 ![](/Pics_How_To_Use/Ant-Renamer-2.png)
 
-Now, return to the Files tab and remove all files and drag and drop your icons. You can use the blue arrows at the top of the window to match icons order with rom order. Then go back to the Actions tab and select Enumeration. Now put in the Mask box :
+Now, return to the Files tab, remove all files inside and drag and drop your icons. You can use the blue arrows at the top of the window to match icons order with roms order. Then go back to the Actions tab and select Enumeration. Now put in the Mask box :
 
 > %num%%ext%
 
