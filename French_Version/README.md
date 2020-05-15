@@ -1,4 +1,9 @@
 # Retroarch Entries Maker for ulaunch
+
+<p align="center">
+<img src="../Logo/Logo_round.png" width="40%">
+</p>
+
 [English version](../README.md)
 # Prérequis :
 Avant de commencer, vous devez installer la [dernière version de Python](https://www.python.org/downloads/) et je vous recommande d'installer la dernière version d'Ant Renamer.
