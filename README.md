@@ -6,6 +6,8 @@
 
 [French Version](/French_Version/README.md)
 
+[Credits](/Credits.md)
+
 Note : English is not my first language, so excuse me if there are some mistakes
 
 # Requirement :
